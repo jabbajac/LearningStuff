@@ -1,4 +1,4 @@
-OSI Model
+OSI Model Cheatsheet
 ====================
 
 Physical Layer - Layer 1
