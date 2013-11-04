@@ -24,16 +24,16 @@
 
 ---
 
-* google omniauth
+* [ ] google omniauth
   - [x] set up google account dev secret and key
   - [ ] check authentication
-* twitter omniauth
+* [ ] twitter omniauth
   - [x] set up twitter account dev secret and key
   - [ ] check authentication
-* facebook omniauth
+* [ ] facebook omniauth
   - [x] set up fb account dev secret and key
   - [ ] check authentication
-* Telepathik API
+* [ ] Telepathik API
   - [ ] user login API
   - [ ] user link feed API
   - [ ] friends top links feed API
